@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name **Adarsh**
+# Hi there 👋, my name **Adarsh**
 
 - 🔭 I’m currently working on builing my portfolio 
 - 🌱 I’m currently learning Next.js 
