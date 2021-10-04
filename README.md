@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting react / next.js projects 
 - 📫 How to reach me: Connect with me on twitter, instagram, linkedin or send me an email. 
 
-
+<h3> Socials </h3>
 <a href="https://github.com/adarshzpatel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
