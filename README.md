@@ -1,7 +1,7 @@
 
 # Hi there 👋, my name is **Adarsh**
 
-- 🔭 I’m currently working on [lightVue](https://github.com/lightvue/lightvue)
+- 🔭 I’m currently working freelancing and building dapps
 - 🌱 I’m currently learning web3.0.
 - 👯 I’m looking to collaborate on interesting react / next.js projects 
 - 📫 How to reach me: Connect with me on twitter, instagram, linkedin or send me an email. 
