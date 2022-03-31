@@ -1,9 +1,8 @@
 
 # Hi there 👋, my name is **Adarsh**
 
-- 🔭 I’m currently working freelancing and building dapps
-- 🌱 I’m currently learning web3.0.
-- 👯 I’m looking to collaborate on interesting react / next.js projects 
+- 🔭 I’m currently freelancing and building dapps.
+- 🌱 I’m currently learning web3 & blockchain.
 - 📫 How to reach me: Connect with me on twitter, instagram, linkedin or send me an email. 
 
 
