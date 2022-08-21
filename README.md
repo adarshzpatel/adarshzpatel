@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning web3 & blockchain.
 - 📫 How to reach me: Connect with me on twitter, instagram, linkedin or send me an email. 
 
-
+###
 
 ### Skills / Technologies  
 <div align='left'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
